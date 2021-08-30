@@ -1,0 +1,5 @@
+com\model\Department.class
+com\service\DepartmentService.class
+com\main\EducationApp.class
+com\model\Student.class
+com\service\DepartmentServiceImpl.class
